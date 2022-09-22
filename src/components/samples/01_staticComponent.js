@@ -5,7 +5,7 @@ import React from "react";
 const Demo = () => {
   return (
     <div>
-      <h1>Dynamic Languages</h1>
+      <h1>HDip Computer Science - Modules Table</h1>
       <ul>
       <table className="table table-bordered">
   <thead>
